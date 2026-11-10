@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f7f7f7;
+}
+nav {
+  margin-bottom: 15px;
+}
+.stavba {
+  color: #1A5276;
+  border: 1px solid #cccccc;
+  background-color: #ffffff;
+  padding: 15px;
+  max-width: 800px;
+}
+.stavba img {
+  max-width: 100%;
+  height: auto;
+}
+.lokacija {
+  margin: 10px 0;
+}
